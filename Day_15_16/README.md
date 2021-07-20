@@ -1,1 +1,1 @@
-# Chessboard - THA-18
+# Chessboard
