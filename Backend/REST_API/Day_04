@@ -1,0 +1,15 @@
+An API, or application programming interface, is a set of rules that define how applications or devices can connect to and communicate with each other.
+A REST API is an API that conforms to the design principles of the REST, or representational state transfer architectural style.
+For this reason, REST APIs are sometimes referred to RESTful APIs.
+
+Types of APIs other than REST are:
+
+1. SOAP
+2. JSON RPC and XML RPC
+
+If a website is using REST API, its data will always be in JSON format.
+
+
+For normal package transfer in APIs, TCP/IP is used i.e., for transporting data.
+For live video streaming and voice calls RTP is used.
+For web access http/https is used.
