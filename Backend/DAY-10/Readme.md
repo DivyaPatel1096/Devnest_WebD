@@ -1,1 +1,1 @@
-AWS set-up simple EZ.
+AWS set-up 
